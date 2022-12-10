@@ -1,0 +1,17 @@
+X - opcao de sair
+X - list books / articles mostra vazio
+X - tirar os lixo la de cima, menos o log ( deixa log on default )
+	- modo offline
+	        X - toggle
+		X ler XML quando loga
+		X - fazer serializador generico
+	X - se tentar adicionar uma pub / book no modo off, nao deixa
+X - log com o rodrigo
+	X - falta desativar o log quando marca off log
+	X - loga a desativação do l
+
+X - quando loga le o cache e ve se ta no modo offline pra atualizar na checkbox la
+	X - pega do cache e popula tabela
+X - chamar o setOfflineMode do cache
+X - O arquivo cache.xml não ta sendo criado
+
